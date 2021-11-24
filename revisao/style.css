@@ -1,0 +1,49 @@
+.desafio1{
+    width: 300px;
+    background-color: aqua;
+    margin: 40px;
+    padding: 30px;
+    border: solid black 10px;
+    border-radius: 20px;
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+}
+
+.desafio2{
+    width: 200px;
+    background-color: blueviolet;
+    margin: 40px;
+    padding: 20px;
+}
+
+table{
+    color: white;
+    
+}
+
+th{
+    background-color: violet;
+    padding: 15px;
+
+}
+
+tr{
+    background-color: rgb(197, 197, 197);
+    padding: 15px;
+}
+
+.bt-registro{
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    background-color: yellowgreen;
+    border: solid blue 10px;
+}
+
+.volume{ 
+    width: 150px;
+    
+}
